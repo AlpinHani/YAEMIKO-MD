@@ -272,9 +272,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'Instagram'
-global.urlnya = "https://www.instagram.com/danilelistz02"
+global.urlnya = "https://www.instagram.com/en4y.pin"
 global.dtc = 'Call Owner'
-global.phn = '0813 8730 7198'
+global.phn = '+1 (585) 968-4840'
 
 global.fsizedoc = '999'
 global.fpagedoc = '999'
