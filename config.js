@@ -30,24 +30,24 @@ global.kyoukakey = "Your Apikey" //Register https://dash.api-kyouka.my.id/ Free 
 global.owner = [
 ['62895627413377', true],
 ['628889616144', true],
-['6285861790206', 'Zeltoria', true] // ganti aja
+['15859684840', 'Alpin', true] // ganti aja
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069307' // ini juga
-global.nomorown = '62895627413377' // ini juga
-global.nomorown1 = '62895627413377' // ini juga
-global.nomorown2 = '62895627413377' // ini juga
+global.nomorbot = '79012346210' // ini juga
+global.nomorown = '15859684840' // ini juga
+global.nomorown1 = '15859684840' // ini juga
+global.nomorown2 = '15859684840' // ini juga
 global.nomorwa = '0'
 
 
 global.readMore = readMore
-global.author = 'Zeltoria'
-global.namebot = '​Yaemiko-MD'
-global.wm = '© Yaemiko By Zeltoria'
+global.author = 'En4y.Pin'
+global.namebot = '​AlpinBot-MD'
+global.wm = '© AlpinBot-MD by Alpin'
 global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg'
 global.watermark = wm
-global.wm2 = 'Zeltoria'
+global.wm2 = 'Alpin'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
 global.titlebot = `Yaemiko-Multidevice`
